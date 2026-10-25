@@ -13,3 +13,7 @@ TugasPraktik1/
 │   └── cpp/
 │       └── main.cpp
 └── README.md
+
+Mohon maaf pak ini link videonya
+
+https://drive.google.com/file/d/19Iv5m_S4fKzifoiMpbykNkL795KI0K8P/view?usp=drive_link

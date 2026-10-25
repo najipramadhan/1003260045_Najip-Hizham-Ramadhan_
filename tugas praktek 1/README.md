@@ -2,7 +2,7 @@
 
 NIM: 1003260045
 Domain Kasus: Kafe ("Menu0045", "Pesanan0045")
-Nilai Dasar: 36 x 1.000 = 36.000 ("hargaMenu")
+Nilai Dasar: 32 x 1.000 = 32.000 ("hargaMenu")
 
 Daftar Folder
 
